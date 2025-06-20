@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rjshkhr.github.io/cleanfolio',
+  homepage: 'https://Suryakry17.github.io/cleanfolio',
   title: 'JS.',
 }
 
@@ -10,7 +10,7 @@ const about = {
   role: 'Front End Developer',
   description:
     'A clean and responsive personal portfolio website built using React. It showcases my skills, projects, and contact information in a simple and professional design. This project highlights my frontend development abilities and GitHub workflow.',
-  resume: 'https://example.com',
+  resume: 'https://drive.google.com/file/d/13dzxHSCKWut7HwHadYpXRhHb54yvjya_/view?usp=drivesdk ',
   social: {
     linkedin: 'https://linkedin.com',
     github: 'https://github.com/suryakry17',
@@ -34,12 +34,12 @@ const projects = [
   description:
     'A fully responsive personal portfolio built with React. Includes sections like About, Skills, Projects, and Contact. Hosted online with clean design and source code available.',
   stack: ['React', 'CSS', 'JavaScript'],
-  sourceCode: 'https://github.com/YourUsername/cleanfolio', // update with your repo
+  sourceCode: 'https://github.com/Suryakry17/cleanfolio', // update with your repo
   livePreview: 'https://YourPortfolioLink.netlify.app', // update with your actual hosted link
 }
 ,
   {
-  name: 'E-Commerce UI',
+  name: 'E-Commerce',
   description:
     'Built a basic e-commerce interface using React. Features include product listing, filtering by category, product detail view, and clean UI styling.',
   stack: ['React', 'CSS', 'Fetch API'],
