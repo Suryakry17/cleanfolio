@@ -1,68 +1,37 @@
-# Cleanfolio
+# 💼 Jayasuriya M — Frontend Developer Portfolio
 
-Cleanfolio is a portfolio template built with React. However, if you prefer a template built with HTML, CSS, and JavaScript, you can check out [Cleanfolio Minimal](https://github.com/rjshkhr/cleanfolio-minimal).
+Welcome to my personal portfolio website!  
+This project is built using **React.js** and is based on the [Cleanfolio](https://github.com/suryakry17/cleanfolio) template.  
+I’ve customized it to represent my skills, experience, and the projects I’ve worked on.
 
-## Preview
+---
 
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://rjshkhr.github.io/cleanfolio)
+## 🔍 Live Preview
 
-[Live Demo](https://rjshkhr.github.io/cleanfolio)
+📌 **Live Site**: [https://suryakry17.github.io](https://suryakry17.github.io)  
 
-## Instructions
 
-### Setup
+---
 
-```shell
-git clone https://github.com/rjshkhr/cleanfolio
+## 🚀 Tech Stack
+
+This project uses the following technologies:
+
+- ⚛️ React.js
+- 🎨 CSS3
+- 🧠 JavaScript (ES6+)
+- 🗂 Git & GitHub
+- 🌐 Responsive Web Design
+- 📦 GitHub Pages (for deployment)
+
+---
+
+## 📁 Project Setup
+
+To run this project locally:
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/yourusername/cleanfolio
 cd cleanfolio
-```
-
-If you use [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm), execute:
-
-```shell
-nvm install
-nvm use
-```
-
-Or:
-
-```shell
-fnm install
-fnm use
-```
-
-To install and launch the project, run these commands:
-
-```shell
-yarn
-yarn start
-```
-
-### How to Use
-
-- Open the `public/index.html` file and replace:
-
-`<title>John Smith</title>` with `<title>Your Name</title>`.
-
-- Open the `src/portfolio.js` file and make the necessary changes.
-
-### Deployment
-
-- In the `package.json` file, update:
-
-`"homepage": "https://rjshkhr.github.io/cleanfolio"`
-
-to `"homepage": "https://yourusername.github.io"`.
-
-- Push the changes to your repository.
-
-- To build and deploy, run the following commands:
-
-```shell
-yarn build
-yarn deploy
-```
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
